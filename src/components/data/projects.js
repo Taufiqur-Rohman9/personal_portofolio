@@ -1,0 +1,40 @@
+export const ProjectData=[
+    {
+        id:1,
+        title:"Difference Between SVM and Multinomial Naive Bayes Classifier Algorithm in World Cup Sentiment Analysis",
+        about: "Sentimen analisis twitter untuk membandingkan 2 buah algoritma terhadap piala dunia di Qatar",
+        tags:["Data analyst", "Sentiment Analyst", "Data Science"],
+        link:"https://drive.google.com/file/d/1QpSlkgx_EgY3ZbY_PtY_rE8sgxwlgUYB/view?usp=drive_link",
+        image:require("../../assets/project/sentiment.JPG"),
+    },
+    {
+        id:1,
+        title:"Clustering the Countries by Using K-Means for Help International",
+        about: "Analisis untuk melakukan pengelompokan negara yang perlu dibantu",
+        tags:["Data Analyst", "Data Science"],
+        link:"https://drive.google.com/file/d/1d6PfYH69vwB9Lpy92qOT2P38aJM7AGab/view?usp=drive_link",
+        image:require("../../assets/project/kmean.JPG"),
+    },
+    {
+        id:1,
+        title:"Salary Analyst",
+        about: "Analisis gaji berdasarkan job role, experience, worktype, tempat bekerja(wfh/wfo), dan average salary job by year",
+        tags:["Data analyst"],
+        link:"https://drive.google.com/file/d/11O3qOiCeUaMNuffzLljOSKi2Zvx5q5_3/view?usp=drive_link",
+        image:require("../../assets/project/salary.JPG"),
+    },
+    {
+        id:1,
+        title:"Youtube Analytics",
+        about: "Membuat aplikasi dalam bentuk GUI untuk membantu dalam analisis channel youtube",
+        tags:["Python Programming"],
+        image:require("../../assets/project/yt.png"),
+    },
+    {
+        id:1,
+        title:"Tiktok Scraper",
+        about: "Membuat aplikasi dalam bentuk GUI untuk membantu dalam melakukan mendapatkan data berupa nama akun, follower, dan biodata berdasarkan kata kunci",
+        tags:["Python Programming"],
+        image:require("../../assets/project/tt.png"),
+    },
+];
